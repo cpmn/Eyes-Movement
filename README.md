@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./images/eyes.jpg" alt="Eyes Movement" />
+  <img src="./images/eyes.JPG" alt="Eyes Movement" />
   <!-- <a href="https://eyesmovement.netlify.app">Demo</a> -->
 </div>
 

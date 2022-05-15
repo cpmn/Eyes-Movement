@@ -1,97 +1,68 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Eyes Movement" />
+  <img src="./images/eyes.png" alt="Eyes Movement" />
 
   &#xa0;
 
   <!-- <a href="https://eyesmovement.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Eyes Movement</h1>
+<h1 align="center">The Simpson's Eyes Movement Show</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/eyes-movement?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/eyes-movement?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/eyes-movement?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/eyes-movement?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/eyes-movement?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/eyes-movement?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/eyes-movement?color=56BEB8" /> -->
-</p>
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Eyes Movement 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
-
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#dart-about">Description</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/cpmn" target="_blank">Author</a>
 </p>
 
 <br>
 
-## :dart: About ##
+## :dart: Description ##
 
-Describe your project
+MIT xPRO Week 8 Project: Eyes-Movement. This project was made during week 8 of MIT bootcamp, the original asignment was 
+twor eyes that follow the mouse pointer as much as you move it. 
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Feature 1: As a Simpson Fan I would like to have a button to change diferent images representing Simpson's characteres.\
+:heavy_check_mark: Feature 2: As a Simpson Fan I would like to apply the eyes to  Homero, March, Bart and Lisa faces\
+:heavy_check_mark: Feature 3: As a user I would like to see the title of the page in a fancy sympson format\
+:heavy_check_mark: Feature 4: As a user I would like to see the contacts and the copy right;
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+- [JavaScript](https://www.w3schools.com/js/)
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) installed.
 
 ## :checkered_flag: Starting ##
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/eyes-movement
+$ git clone https://github.com/cpmn/eyes-movement
 
 # Access
 $ cd eyes-movement
 
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
+# Run index.html in a browser
+- [Index.html](index.html)
 ```
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/cpmn" target="_blank">Claudia Muñoz</a>
 
 &#xa0;
 

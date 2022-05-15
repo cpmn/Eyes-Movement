@@ -20,14 +20,16 @@
 ## :dart: Description ##
 
 MIT xPRO Week 8 Project: Eyes-Movement. This project was made during week 8 of MIT bootcamp, the original asignment was 
-twor eyes that follow the mouse pointer as much as you move it. 
+two eyes that follow the mouse pointer as much as you move it. 
+Based on the initial project I have created my own version using The Simpson theme, you will move the eyes in Homero, March, Lisa and Bart.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1: As a Simpson Fan I would like to have a button to change diferent images representing Simpson's characteres.\
-:heavy_check_mark: Feature 2: As a Simpson Fan I would like to apply the eyes to  Homero, March, Bart and Lisa faces\
-:heavy_check_mark: Feature 3: As a user I would like to see the title of the page in a fancy sympson format\
-:heavy_check_mark: Feature 4: As a user I would like to see the contacts and the copy right;
+:heavy_check_mark: Feature 1: As a Simpson Fan I would like to have links or buttons to change diferent images representing Simpson's characteres.\
+:heavy_check_mark: Feature 2: As a Simpson Fan I would like to apply the eyes movement to  Homero, March, Bart and Lisa faces\
+:heavy_check_mark: Feature 3: As a Simpson fan I would like to see the photo fram with the face of each character\
+:heavy_check_mark: Feature 4: As a user I would like to see the title of the page in a fancy sympson format\
+:heavy_check_mark: Feature 5: As a user I would like to see the contacts and the copy right;
 
 ## :rocket: Technologies ##
 

@@ -1,8 +1,5 @@
 <div align="center" id="top"> 
   <img src="./images/eyes.png" alt="Eyes Movement" />
-
-  &#xa0;
-
   <!-- <a href="https://eyesmovement.netlify.app">Demo</a> -->
 </div>
 
@@ -56,6 +53,7 @@ $ cd eyes-movement
 # Run index.html in a browser
 - [Index.html](index.html)
 ```
+Once the webpage is loaded you will see 4 buttons bellow the title, you can click in any of those buttons and start changing the faces in the portrait and eyes will fit any of those faces.
 
 ## :memo: License ##
 

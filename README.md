@@ -29,16 +29,16 @@ Enjoy the live [DEMO](https://cpmn.github.io/Eyes-Movement/)
 
 ## :sparkles: Roadmap ##
 
-This are the list currect improvements:
+These are the list of currect improvements:
 
 :heavy_check_mark: Feature 1: As a Simpson Fan I would like to have links or buttons to change diferent images representing Simpson's characteres.\
 :heavy_check_mark: Feature 2: As a Simpson Fan I would like to apply the eyes movement to  Homero, March, Bart and Lisa faces\
 :heavy_check_mark: Feature 3: As a Simpson Fan I would like to see the picture frame with the face of each character\
 :heavy_check_mark: Feature 4: As a user I would like to see the title of the page in a fancy sympson format\
-:heavy_check_mark: Feature 5: As a user I would like to see the contacts and the copy right;
-:heavy_check_mark: Feature 5: As a user I would like to see the webpage using my mobile;
+:heavy_check_mark: Feature 5: As a user I would like to see the contacts and the copy right\
+:heavy_check_mark: Feature 6: As a user I would like to see the webpage using my mobile;
 
-In future enhancemnts:
+For future enhancemnts:
 - Feature 7: As a Simpson Fan I would like to move the mouse following the mouse pointer.
 - Feature 8: As a Simpson Fan I would like to add more charactres: Barny, Moe, Krusty, Nelson, Burns, etc.
 
@@ -67,7 +67,7 @@ $ cd eyes-movement
 # Run index.html in a browser
 - [Index.html](index.html)
 ```
-Once the webpage is loaded you will see 4 buttons bellow the title, you can click in any of those buttons and start changing the faces in the portrait and eyes will fit any of those faces.
+Once the webpage is loaded you will see four links bellow the title, you can click in any of those links and start changing the faces in the portrait and eyes will fit in each image.
 
 ## :memo: License ##
 

@@ -3,8 +3,6 @@
   src: url(fonts/Simpson.otf);
 }
 
-
-
 body {  
   margin: 0;
   padding: 0;
@@ -17,8 +15,6 @@ body {
   background-color: #005994;
 }
 
-
-
 header {
   width: 100%;
   text-align: center;
@@ -28,8 +24,7 @@ h1 {
   color: #FCCF00;
   font: 3em sans-serif;
   font-weight: bold;
-  font-family: Simpsonfont;  
-  /*display: flex;*/
+  font-family: Simpsonfont;
   justify-content: center;
   text-shadow: 1px 1px 1px #f3a719,
     1px 2px 1px #f3a719,
@@ -71,8 +66,6 @@ a {
   }
 
 }
-
-
 
 img {
   display: block;    

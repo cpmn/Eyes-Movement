@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./images/eyes.JPG" alt="Eyes Movement" />
+  <img src="./images/EyesMovementSimpsons.gif" alt="Eyes Movement" />
   <!-- <a href="https://eyesmovement.netlify.app">Demo</a> -->
 </div>
 
@@ -22,7 +22,7 @@
 This project was made during week 8 of MIT xPRO bootcamp, the original asignment was two eyes that follow the mouse pointer as much as you move it. 
 Based on the initial project I have created my own version using The Simpson theme, you will move the eyes in Homero, March, Lisa and Bart. 
 
-## : dart: DEMO ##
+## :dart: DEMO ##
 
 This website is responsive so you can try from you desktop, laptop, mobile or your table.
 Enjoy the live [DEMO](https://cpmn.github.io/Eyes-Movement/)
